@@ -1,0 +1,490 @@
+03:00:48 INFO:t
+03:00:48 INFO:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:00:50 INFO:hotUpdate -> D:\Workspace\Python_Projs\HotUpdate\works\test.py
+03:02:26 DEBUG:t
+03:02:26 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:02:29 DEBUG:hotUpdate -> D:\Workspace\Python_Projs\HotUpdate\works\test.py
+03:03:35 DEBUG:t
+03:03:43 DEBUG:y
+03:03:45 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:03:47 DEBUG:hotUpdate -> D:\Workspace\Python_Projs\HotUpdate\works\test.py
+03:12:53 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:12:55 DEBUG:hotUpdate -> D:\Workspace\Python_Projs\HotUpdate\works\test.py
+03:12:56 DEBUG:update
+03:12:59 DEBUG:update
+03:13:02 DEBUG:update
+03:13:05 DEBUG:update
+03:13:08 DEBUG:update
+03:13:11 DEBUG:update
+03:13:14 DEBUG:update
+03:14:01 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:14:03 DEBUG:hotUpdate -> D:\Workspace\Python_Projs\HotUpdate\works\test.py
+03:15:01 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:15:03 DEBUG:hotUpdate -> D:\Workspace\Python_Projs\HotUpdate\works\test.py.works.test
+03:16:05 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:16:07 DEBUG:hotUpdate -> D:\Workspace\Python_Projs\HotUpdate\works\test.py.works.test
+03:17:59 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:18:01 DEBUG:hotUpdate -> works.test
+03:18:25 DEBUG:hotUpdate -> works.test
+03:22:50 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:22:52 DEBUG:hotUpdate -> works.test
+03:23:02 DEBUG:hotUpdate -> works.test
+03:23:58 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:24:00 DEBUG:hotUpdate -> works.test
+03:24:08 DEBUG:hotUpdate -> works.test
+03:36:22 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:36:24 DEBUG:hotUpdate -> works.test
+03:36:25 DEBUG:19
+03:36:28 DEBUG:19
+03:36:31 DEBUG:19
+03:36:32 DEBUG:hotUpdate -> works.test
+03:36:34 DEBUG:199
+03:36:37 DEBUG:199
+03:36:40 DEBUG:199
+03:36:43 DEBUG:199
+03:36:46 DEBUG:199
+03:36:49 DEBUG:199
+03:36:50 DEBUG:hotUpdate -> works.test
+03:36:52 DEBUG:helloworld
+03:36:55 DEBUG:helloworld
+03:44:11 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:44:11 ERROR:init hot update
+03:44:21 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:44:21 ERROR:init hot update
+03:44:54 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+03:44:54 ERROR:init hot update
+14:50:28 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+14:50:30 DEBUG:hotUpdate -> works.test
+14:50:31 DEBUG:123
+14:50:34 DEBUG:123
+14:50:39 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+14:50:39 ERROR:init hot update
+15:08:29 ERROR:init hot update
+15:08:29 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+15:08:32 DEBUG:hello
+15:08:35 DEBUG:hello
+15:08:38 DEBUG:hello
+15:08:41 DEBUG:hello
+15:08:44 DEBUG:hello
+15:08:47 DEBUG:hello
+15:08:50 DEBUG:hello
+15:08:53 DEBUG:hello
+15:08:56 DEBUG:hello
+15:08:59 DEBUG:hello
+15:09:02 DEBUG:hello
+15:09:05 DEBUG:hello
+15:09:08 DEBUG:hello
+15:09:11 DEBUG:hello
+15:09:14 DEBUG:hello
+15:09:17 DEBUG:hello
+15:09:20 DEBUG:hello
+15:09:23 DEBUG:hello
+15:09:26 DEBUG:hello
+15:09:29 DEBUG:hello
+15:09:32 DEBUG:hello
+15:09:35 DEBUG:hello
+15:09:38 DEBUG:hello
+15:09:41 DEBUG:hello
+15:09:44 DEBUG:hello
+15:09:47 DEBUG:hello
+15:09:50 DEBUG:hello
+15:09:53 DEBUG:hello
+15:09:56 DEBUG:hello
+15:09:59 DEBUG:hello
+15:10:02 DEBUG:hello
+15:10:05 DEBUG:hello
+15:10:08 DEBUG:hello
+15:10:11 DEBUG:hello
+15:10:14 DEBUG:hello
+15:10:17 DEBUG:hello
+15:10:20 DEBUG:hello
+15:10:23 DEBUG:hello
+15:10:26 DEBUG:hello
+15:10:29 DEBUG:hello
+15:10:32 DEBUG:hello
+15:10:35 DEBUG:hello
+15:10:38 DEBUG:hello
+15:10:41 DEBUG:hello
+15:10:44 DEBUG:hello
+15:10:47 DEBUG:hello
+15:10:50 DEBUG:hello
+15:10:53 DEBUG:hello
+15:10:56 DEBUG:hello
+15:10:59 DEBUG:hello
+15:11:02 DEBUG:hello
+15:11:05 DEBUG:hello
+15:11:08 DEBUG:hello
+15:11:11 DEBUG:hello
+15:11:14 DEBUG:hello
+15:11:17 DEBUG:hello
+15:11:20 DEBUG:hello
+15:11:23 DEBUG:hello
+15:11:26 DEBUG:hello
+15:11:29 DEBUG:hello
+15:11:32 DEBUG:hello
+15:11:35 DEBUG:hello
+15:11:38 DEBUG:hello
+15:11:41 DEBUG:hello
+15:11:44 DEBUG:hello
+15:11:47 DEBUG:hello
+15:11:50 DEBUG:hello
+15:11:53 DEBUG:hello
+15:11:56 DEBUG:hello
+15:11:59 DEBUG:hello
+15:12:02 DEBUG:hello
+15:12:05 DEBUG:hello
+15:12:08 DEBUG:hello
+15:12:11 DEBUG:hello
+15:12:14 DEBUG:hello
+15:12:17 DEBUG:hello
+15:12:20 DEBUG:hello
+15:12:23 DEBUG:hello
+15:12:26 DEBUG:hello
+15:12:29 DEBUG:hello
+15:12:32 DEBUG:hello
+15:12:35 DEBUG:hello
+15:12:38 DEBUG:hello
+15:12:41 DEBUG:hello
+15:12:44 DEBUG:hello
+15:12:47 DEBUG:hello
+15:12:50 DEBUG:hello
+15:12:53 DEBUG:hello
+15:12:56 DEBUG:hello
+15:12:59 DEBUG:hello
+15:13:02 DEBUG:hello
+15:13:05 DEBUG:hello
+15:13:08 DEBUG:hello
+15:13:11 DEBUG:hello
+15:13:14 DEBUG:hello
+15:13:17 DEBUG:hello
+15:13:20 DEBUG:hello
+15:13:23 DEBUG:hello
+15:13:26 DEBUG:hello
+15:13:29 DEBUG:hello
+15:13:32 DEBUG:hello
+15:13:35 DEBUG:hello
+15:13:38 DEBUG:hello
+15:13:41 DEBUG:hello
+15:13:44 DEBUG:hello
+15:13:47 DEBUG:hello
+15:13:50 DEBUG:hello
+15:13:53 DEBUG:hello
+15:13:56 DEBUG:hello
+15:13:59 DEBUG:hello
+15:14:02 DEBUG:hello
+15:14:05 DEBUG:hello
+15:14:08 DEBUG:hello
+15:14:11 DEBUG:hello
+15:14:14 DEBUG:hello
+15:14:17 DEBUG:hello
+15:14:20 DEBUG:hello
+15:14:23 DEBUG:hello
+15:14:26 DEBUG:hello
+15:14:29 DEBUG:hello
+15:14:32 DEBUG:hello
+15:14:35 DEBUG:hello
+15:14:38 DEBUG:hello
+15:14:41 DEBUG:hello
+15:14:44 DEBUG:hello
+15:14:47 DEBUG:hello
+15:14:50 DEBUG:hello
+15:14:53 DEBUG:hello
+15:14:56 DEBUG:hello
+15:14:59 DEBUG:hello
+15:15:02 DEBUG:hello
+15:15:05 DEBUG:hello
+15:15:08 DEBUG:hello
+15:15:11 DEBUG:hello
+15:15:14 DEBUG:hello
+15:15:17 DEBUG:hello
+15:15:20 DEBUG:hello
+15:15:23 DEBUG:hello
+15:15:26 DEBUG:hello
+15:15:29 DEBUG:hello
+15:15:32 DEBUG:hello
+15:15:35 DEBUG:hello
+15:15:38 DEBUG:hello
+15:15:41 DEBUG:hello
+15:15:44 DEBUG:hello
+15:15:47 DEBUG:hello
+15:15:50 DEBUG:hello
+15:15:53 DEBUG:hello
+15:15:56 DEBUG:hello
+15:15:59 DEBUG:hello
+15:16:02 DEBUG:hello
+15:16:05 DEBUG:hello
+15:16:08 DEBUG:hello
+15:16:11 DEBUG:hello
+15:16:14 DEBUG:hello
+15:16:17 DEBUG:hello
+15:16:20 DEBUG:hello
+15:16:23 DEBUG:hello
+15:16:26 DEBUG:hello
+15:16:29 DEBUG:hello
+15:16:32 DEBUG:hello
+15:16:35 DEBUG:hello
+15:16:38 DEBUG:hello
+15:16:41 DEBUG:hello
+15:16:44 DEBUG:hello
+15:16:47 DEBUG:hello
+15:16:50 DEBUG:hello
+15:16:53 DEBUG:hello
+15:16:56 DEBUG:hello
+15:16:59 DEBUG:hello
+15:17:02 DEBUG:hello
+15:17:05 DEBUG:hello
+15:17:08 DEBUG:hello
+15:17:11 DEBUG:hello
+15:17:14 DEBUG:hello
+15:17:17 DEBUG:hello
+15:17:20 DEBUG:hello
+15:17:23 DEBUG:hello
+15:17:26 DEBUG:hello
+15:17:29 DEBUG:hello
+15:17:32 DEBUG:hello
+15:17:35 DEBUG:hello
+15:17:38 DEBUG:hello
+15:17:41 DEBUG:hello
+15:17:44 DEBUG:hello
+15:17:47 DEBUG:hello
+15:17:50 DEBUG:hello
+15:17:53 DEBUG:hello
+15:17:56 DEBUG:hello
+15:17:59 DEBUG:hello
+15:18:02 DEBUG:hello
+15:18:05 DEBUG:hello
+15:18:08 DEBUG:hello
+15:18:11 DEBUG:hello
+15:18:14 DEBUG:hello
+15:18:17 DEBUG:hello
+15:18:20 DEBUG:hello
+15:18:23 DEBUG:hello
+15:18:26 DEBUG:hello
+15:18:29 DEBUG:hello
+15:18:32 DEBUG:hello
+15:18:35 DEBUG:hello
+15:18:38 DEBUG:hello
+15:18:41 DEBUG:hello
+15:18:44 DEBUG:hello
+15:18:47 DEBUG:hello
+15:18:50 DEBUG:hello
+15:18:53 DEBUG:hello
+15:18:56 DEBUG:hello
+15:18:59 DEBUG:hello
+15:19:02 DEBUG:hello
+15:19:05 DEBUG:hello
+15:19:08 DEBUG:hello
+15:19:11 DEBUG:hello
+15:19:14 DEBUG:hello
+15:19:17 DEBUG:hello
+15:19:20 DEBUG:hello
+15:19:23 DEBUG:hello
+15:19:26 DEBUG:hello
+15:19:29 DEBUG:hello
+15:19:32 DEBUG:hello
+15:19:35 DEBUG:hello
+15:19:38 DEBUG:hello
+15:19:41 DEBUG:hello
+15:19:44 DEBUG:hello
+15:19:47 DEBUG:hello
+15:19:50 DEBUG:hello
+15:19:53 DEBUG:hello
+15:19:56 DEBUG:hello
+15:19:59 DEBUG:hello
+15:20:02 DEBUG:hello
+15:20:05 DEBUG:hello
+15:20:08 DEBUG:hello
+15:20:11 DEBUG:hello
+15:20:14 DEBUG:hello
+15:20:17 DEBUG:hello
+15:20:20 DEBUG:hello
+15:20:23 DEBUG:hello
+15:20:26 DEBUG:hello
+15:20:29 DEBUG:hello
+15:20:32 DEBUG:hello
+15:20:35 DEBUG:hello
+15:20:38 DEBUG:hello
+15:20:41 DEBUG:hello
+15:20:44 DEBUG:hello
+15:20:47 DEBUG:hello
+15:20:50 DEBUG:hello
+15:20:53 DEBUG:hello
+15:20:56 DEBUG:hello
+15:20:59 DEBUG:hello
+15:21:02 DEBUG:hello
+15:21:05 DEBUG:hello
+15:21:08 DEBUG:hello
+15:21:11 DEBUG:hello
+15:21:14 DEBUG:hello
+15:21:17 DEBUG:hello
+15:21:20 DEBUG:hello
+15:21:23 DEBUG:hello
+15:21:26 DEBUG:hello
+15:21:29 DEBUG:hello
+15:21:32 DEBUG:hello
+15:21:35 DEBUG:hello
+15:21:38 DEBUG:hello
+15:21:41 DEBUG:hello
+15:21:44 DEBUG:hello
+15:21:47 DEBUG:hello
+15:21:50 DEBUG:hello
+15:21:53 DEBUG:hello
+15:21:56 DEBUG:hello
+15:21:59 DEBUG:hello
+15:22:02 DEBUG:hello
+15:22:05 DEBUG:hello
+15:22:08 DEBUG:hello
+15:22:11 DEBUG:hello
+15:22:14 DEBUG:hello
+15:22:17 DEBUG:hello
+15:22:20 DEBUG:hello
+15:22:23 DEBUG:hello
+15:22:26 DEBUG:hello
+15:22:29 DEBUG:hello
+15:22:32 DEBUG:hello
+15:22:35 DEBUG:hello
+15:22:38 DEBUG:hello
+15:22:41 DEBUG:hello
+15:22:44 DEBUG:hello
+15:22:47 DEBUG:hello
+15:22:50 DEBUG:hello
+15:22:53 DEBUG:hello
+15:22:56 DEBUG:hello
+15:22:59 DEBUG:hello
+15:23:02 DEBUG:hello
+15:23:05 DEBUG:hello
+15:23:08 DEBUG:hello
+15:23:11 DEBUG:hello
+15:23:14 DEBUG:hello
+15:23:17 DEBUG:hello
+15:23:20 DEBUG:hello
+15:23:23 DEBUG:hello
+15:23:26 DEBUG:hello
+15:23:29 DEBUG:hello
+15:23:32 DEBUG:hello
+15:23:35 DEBUG:hello
+15:23:38 DEBUG:hello
+15:23:41 DEBUG:hello
+15:23:44 DEBUG:hello
+15:23:47 DEBUG:hello
+15:23:50 DEBUG:hello
+15:23:53 DEBUG:hello
+15:23:56 DEBUG:hello
+15:23:59 DEBUG:hello
+15:24:02 DEBUG:hello
+15:24:05 DEBUG:hello
+15:24:08 DEBUG:hello
+15:24:11 DEBUG:hello
+15:24:14 DEBUG:hello
+15:24:17 DEBUG:hello
+15:24:20 DEBUG:hello
+15:24:23 DEBUG:hello
+15:24:26 DEBUG:hello
+15:24:29 DEBUG:hello
+15:24:32 DEBUG:hello
+15:24:35 DEBUG:hello
+15:24:38 DEBUG:hello
+15:24:41 DEBUG:hello
+15:24:44 DEBUG:hello
+15:24:47 DEBUG:hello
+15:24:50 DEBUG:hello
+15:24:53 DEBUG:hello
+15:24:56 DEBUG:hello
+15:24:59 DEBUG:hello
+15:25:02 DEBUG:hello
+15:25:05 DEBUG:hello
+15:25:08 DEBUG:hello
+15:25:11 DEBUG:hello
+15:25:14 DEBUG:hello
+15:25:17 DEBUG:hello
+15:25:20 DEBUG:hello
+15:25:23 DEBUG:hello
+15:25:26 DEBUG:hello
+15:25:29 DEBUG:hello
+15:25:32 DEBUG:hello
+15:25:35 DEBUG:hello
+15:25:38 DEBUG:hello
+15:25:41 DEBUG:hello
+15:25:44 DEBUG:hello
+15:25:47 DEBUG:hello
+15:25:50 DEBUG:hello
+15:25:53 DEBUG:hello
+15:25:56 DEBUG:hello
+15:25:59 DEBUG:hello
+15:26:02 DEBUG:hello
+15:26:05 DEBUG:hello
+15:26:08 DEBUG:hello
+15:26:11 DEBUG:hello
+15:26:14 DEBUG:hello
+15:26:17 DEBUG:hello
+15:26:20 DEBUG:hello
+15:26:23 DEBUG:hello
+15:26:26 DEBUG:hello
+15:26:29 DEBUG:hello
+15:26:32 DEBUG:hello
+15:26:35 DEBUG:hello
+15:26:38 DEBUG:hello
+15:26:41 DEBUG:hello
+15:26:44 DEBUG:hello
+15:26:47 DEBUG:hello
+15:26:50 DEBUG:hello
+15:26:53 DEBUG:hello
+15:26:56 DEBUG:hello
+15:26:59 DEBUG:hello
+15:27:02 DEBUG:hello
+15:27:05 DEBUG:hello
+15:27:08 DEBUG:hello
+15:27:11 DEBUG:hello
+15:27:14 DEBUG:hello
+15:27:17 DEBUG:hello
+15:27:20 DEBUG:hello
+15:27:23 DEBUG:hello
+15:27:26 DEBUG:hello
+15:27:29 DEBUG:hello
+15:27:32 DEBUG:hello
+15:27:35 DEBUG:hello
+15:27:38 DEBUG:hello
+15:27:41 DEBUG:hello
+15:27:44 DEBUG:hello
+15:27:47 DEBUG:hello
+15:27:50 DEBUG:hello
+15:27:53 DEBUG:hello
+15:27:56 DEBUG:hello
+15:27:59 DEBUG:hello
+15:28:02 DEBUG:hello
+15:28:05 DEBUG:hello
+15:28:08 DEBUG:hello
+15:28:11 DEBUG:hello
+15:28:14 DEBUG:hello
+15:28:17 DEBUG:hello
+15:28:20 DEBUG:hello
+15:28:23 DEBUG:hello
+15:28:26 DEBUG:hello
+15:28:29 DEBUG:hello
+15:28:32 DEBUG:hello
+15:28:35 DEBUG:hello
+15:28:38 DEBUG:hello
+15:28:41 DEBUG:hello
+15:28:44 DEBUG:hello
+15:28:47 DEBUG:hello
+15:28:50 DEBUG:hello
+15:28:53 DEBUG:hello
+15:28:56 DEBUG:hello
+15:28:59 DEBUG:hello
+15:29:02 DEBUG:hello
+15:29:05 DEBUG:hello
+15:29:08 DEBUG:hello
+15:29:11 DEBUG:hello
+15:29:14 DEBUG:hello
+15:29:17 DEBUG:hello
+15:29:20 DEBUG:hello
+15:32:28 ERROR:init hot update
+15:32:28 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+15:33:36 ERROR:init hot update
+15:33:36 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+15:40:49 ERROR:init hot update
+15:40:49 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+15:42:31 ERROR:init hot update
+15:42:31 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
+15:44:32 ERROR:init hot update
+15:44:32 DEBUG:parse arg: server_ip=127.0.0.1:3001 => key:server_ip value:127.0.0.1:3001
