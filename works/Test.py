@@ -1,11 +1,11 @@
 
 
 def print2(text):
-    print("更新前: " + text)
+    print("更新后: " + text)
 
 
 class Class1:
-    v = 0
+    v = 123
 
     def plain_func(self):  # 普通方法
         print(f"plain_func {Class1.v}")
